@@ -447,19 +447,19 @@ input::placeholder {
 .sidebar-wrapper .sidebar-nav .metismenu a:active {
   color: #fff;
   text-decoration: none;
-  background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+  background: linear-gradient(90deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 
 }
 .sidebar-wrapper .sidebar-nav .metismenu a:focus {
   color: #fff;
   text-decoration: none;
-  background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+  background: linear-gradient(90deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 
 }
 .sidebar-wrapper .sidebar-nav .metismenu a:hover {
   color: #fff;
   text-decoration: none;
-  background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+  background: linear-gradient(90deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 
 }
 .sidebar-wrapper .sidebar-nav .metismenu ul {
@@ -483,7 +483,7 @@ input::placeholder {
 .sidebar-wrapper .sidebar-nav .metismenu .mm-active > a {
   color: #fff;
   text-decoration: none;
-  background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+  background: linear-gradient(90deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 }
 .sidebar-wrapper .menu-label {
   padding: 10px 16px 10px 16px;
@@ -1657,7 +1657,7 @@ form select.error:focus {
 
 
 .table thead th {
-  background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+  background: linear-gradient(180deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 
   color: white;
   text-align: center;

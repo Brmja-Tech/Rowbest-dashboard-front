@@ -4279,9 +4279,9 @@ textarea.form-control-lg {
 .active>.page-link, .page-link.active {
 	z-index: 3;
 	color: var(--bs-pagination-active-color);
-	background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+   background: linear-gradient(180deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 
-	background: linear-gradient(180deg, #041E39 0%, #1D3E61 100%);
+   background: linear-gradient(180deg, rgba(17, 18, 20, 0) 0%, #111214 100%);
 }
 .disabled>.page-link, .page-link.disabled {
 	color: var(--bs-pagination-disabled-color);
